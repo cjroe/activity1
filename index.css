@@ -1,0 +1,35 @@
+
+body,a{
+  font-family: monospace, fantasy;
+  background-color: #b8f2e6;
+  color: #5e6472;
+}
+
+img{
+  width: 200px;
+  height: 200px;
+}
+
+h1{
+  text-align: center;
+  font-style: italic;
+  text-decoration: underline;
+  text-decoration-style: wavy;
+}
+
+p{
+  text-align: left;
+}
+
+a:hover{
+  color: #ffa69e;
+  font-size: 18px;
+}
+
+nav{
+  border-bottom: 2px dashed #5e6472;
+}
+
+.board-right{
+  border-right: 1px solid #5e6472;
+}
